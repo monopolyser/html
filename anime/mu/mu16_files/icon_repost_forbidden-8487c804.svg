@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>forbidden</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="forbidden" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" fill="#999999" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="矩形" fill="#999999" opacity="0" xlink:href="#path-1"></use>
+            <path d="M8,2 C11.3137085,2 14,4.6862915 14,8 C14,11.3137085 11.3137085,14 8,14 C4.6862915,14 2,11.3137085 2,8 C2,4.6862915 4.6862915,2 8,2 Z M3.28571429,8 C3.28571429,10.385616 5.05770301,12.3573618 7.35728255,12.6708396 L7.35728255,3.32916041 C5.05770301,3.64263819 3.28571429,5.61438402 3.28571429,8 Z M8.64271745,3.32916041 L8.64271745,12.6708396 C10.942297,12.3573618 12.7142857,10.385616 12.7142857,8 C12.7142857,5.61438402 10.942297,3.64263819 8.64271745,3.32916041 Z" id="形状结合" fill="#FF5E56" mask="url(#mask-2)" transform="translate(8.000000, 8.000000) rotate(45.000000) translate(-8.000000, -8.000000) "></path>
+        </g>
+    </g>
+</svg>
